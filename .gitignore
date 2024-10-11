@@ -9,3 +9,5 @@ test/**/*.js.map
 coverage
 .nyc_output
 package-lock.json
+log/**/*.log
+.env.*
